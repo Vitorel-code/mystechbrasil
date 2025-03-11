@@ -3,7 +3,7 @@
 🚀 **Site oficial da Mystech Brasil**, uma empresa em desenvolvimento que visa oferecer soluções inovadoras. Este projeto demonstra habilidades em **HTML, CSS e JavaScript**, incluindo navegação responsiva, animações e um formulário de contato funcional.
 
 ## 🔗 Acesse o site
-👉 [Visualizar o projeto](https://seu-usuario.github.io/mystech-brasil/)
+👉 [Visualizar o projeto](https://vitorel-code.github.io/mystechbrasil/)
 
 ## 📌 Tecnologias usadas
 - HTML5
@@ -32,7 +32,7 @@ cd mystech-brasil
 ```
 
 ## 📩 Contato
-📧 [seu-email@gmail.com](mailto:seu-email@gmail.com)  
+📧 mystechbrasil@gmail.com
 🔗 [Instagram](https://www.instagram.com/mystechbrasil/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+🔗 [LinkedIn](https://www.linkedin.com/in/vitor-emanuel-803b0533b/)
 
