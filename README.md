@@ -20,16 +20,6 @@ O site da **Mystech Brasil** foi criado para estabelecer a presença online da e
 ✔️ Formulário de contato funcional via **FormSubmit**
 
 
-## 🚀 Como executar localmente
-```bash
-# Clone este repositório
-git clone https://github.com/seu-usuario/mystech-brasil.git
-
-# Acesse a pasta do projeto
-cd mystech-brasil
-
-# Abra o arquivo index.html no navegador
-```
 
 ## 📩 Contato
 📧 mystechbrasil@gmail.com
